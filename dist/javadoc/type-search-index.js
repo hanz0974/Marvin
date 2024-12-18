@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dealermobil","l":"DataMobil"},{"p":"dealermobil","l":"DealerMobil"},{"p":"dealermobil","l":"HomeDealer"},{"p":"dealermobil","l":"PanelControl"}];updateSearchResults();
